@@ -1,4 +1,2 @@
-
-.vs
-Debug
-Project\Project1\*.c
+/lua-5.3.5/Makefile
+/lua-5.3.5/README
