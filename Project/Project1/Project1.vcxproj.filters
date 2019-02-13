@@ -15,39 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="test.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Weapon.cpp">
+    <ClCompile Include="itcast_asn1_der.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="nongod.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="filemanager.h">
-      <Filter>头文件</Filter>
-    </ClCompile>
-    <ClCompile Include="filemanager.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Hero.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="monster.cpp">
+    <ClCompile Include="itcastderlog.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Weapon.h">
+    <ClInclude Include="itcast_asn1_der.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="nongod.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="Hero.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="monster.h">
+    <ClInclude Include="itcastderlog.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
