@@ -1,0 +1,4 @@
+.vs
+Debug
+*.c
+\Project\Project1\*.c
